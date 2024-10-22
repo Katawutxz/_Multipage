@@ -1,0 +1,26 @@
+.add-container{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    padding: 0.1rem;
+    margin-bottom: 0.5rem;
+    /* width: 750px; */
+    background-color: #5E1F8E;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+.add-title{
+    color: rgb(255, 255, 255);
+}
+.add-variables{
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.add-display{
+    display: flex;
+    gap : 0.5rem;
+    justify-content: center;
+    font-size: xx-large;
+}
